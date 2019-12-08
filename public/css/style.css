@@ -1,0 +1,19 @@
+.content {
+    transition: all 0.3s;
+    padding-top: 7%;
+}
+.content:hover {
+    opacity: 0.6;
+}
+.nav-link {
+    font-family: 'Neucha', cursive;
+}
+.navbar-brand {
+    font-family: 'Raleway', sans-serif;
+}
+.text-center {
+    font-family: 'Raleway', sans-serif;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: #28a745 !important;
+}
