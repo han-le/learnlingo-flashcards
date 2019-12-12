@@ -1,5 +1,6 @@
 .content {
     transition: all 0.3s;
+    margin-top: 1px;
 }
 .content:hover {
     opacity: 0.6;
