@@ -1,6 +1,5 @@
 .content {
     transition: all 0.3s;
-    padding-top: 7%;
 }
 .content:hover {
     opacity: 0.6;
