@@ -46,3 +46,14 @@
     -ms-flex-preferred-size: auto;
     flex-basis: auto;
 }
+
+.no-gutters {
+    margin-right: 1px;
+    margin-left: 1px;
+}
+
+.no-gutters > .col,
+.no-gutters > [class*="col-"] {
+    padding-right: 1px;
+    padding-left: 1px;
+}
