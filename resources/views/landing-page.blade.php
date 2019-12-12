@@ -39,11 +39,12 @@
 
 
 <!-- HEADER -->
-
-<div class="row">
-    <div class="col-12">
-        <div class="text-center mt-4">
-            <h1>LEARNLINGO</h1>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <div class="text-center mt-4">
+                <h1>LEARNLINGO</h1>
+            </div>
         </div>
     </div>
 </div>
