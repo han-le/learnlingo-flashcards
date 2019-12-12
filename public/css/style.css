@@ -59,9 +59,7 @@
 }
 
 .bd-footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
+    margin-top: 25px;
     font-size: .875rem;
     text-align: center;
     background-color: #f7f7f7;
