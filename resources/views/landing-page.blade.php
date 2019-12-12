@@ -67,7 +67,17 @@
         @endforeach
     </div>
 </div>
-
+<footer class="bd-footer text-muted">
+    <div class="container-fluid p-3 p-md-5">
+        <ul class="bd-footer-links">
+            <li><a href="https://learnlingo.co/">Website</a></li>
+            <li><a href="https://github.com/han-le">GitHub</a></li>
+            <li><a href="https://twitter.com/LearnlingoC">Twitter</a></li>
+            <li><a href="https://www.facebook.com/learnlingo.co">Facebook</a></li>
+            <li><a href="https://www.instagram.com/learnlingo/">Instagram</a></li>
+        </ul>
+    </div>
+</footer>
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
