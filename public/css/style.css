@@ -1,6 +1,6 @@
 .content {
     transition: all 0.3s;
-    margin-top: 1px;
+    margin-top: 4px;
 }
 .content:hover {
     opacity: 0.6;
@@ -48,12 +48,12 @@
 }
 
 .no-gutters {
-    margin-right: 1px;
-    margin-left: 1px;
+    margin-right: 2px;
+    margin-left: 2px;
 }
 
 .no-gutters > .col,
 .no-gutters > [class*="col-"] {
-    padding-right: 1px;
-    padding-left: 1px;
+    padding-right: 2px;
+    padding-left: 2px;
 }
